@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋Victor aqui! Focado em desenvolvimento web. 💻<br><br>📚 Estudando:<br>Atualmente, estudo e aplico conhecimentos em projetos práticos. 🚀<br><br>💡 Conhecimento em Front-end:<br>Conhecimentos sólidos em HTML/CSS e JavaScript, além de ter um conhecimento básico em react.js e TypeScript.<br><br>⚙️ Conhecimento em Back-end:<br>Também estou familiarizado com linguagens back-end como Python e Java. <br><br>📱 Próximo passo: explorar o desenvolvimento mobile.<br><br>🚀Aberto a colaborações e sempre pronto para aprender!!<br><br>
+# 👋Victor aqui! 
+Focado em desenvolvimento web. 💻<br><br>📚 Estudando:<br>Atualmente, estudo e aplico conhecimentos em projetos práticos. 🚀<br><br>💡 Conhecimento em Front-end:<br>Conhecimentos sólidos em HTML/CSS e JavaScript, além de ter um conhecimento básico em react.js e TypeScript.<br><br>⚙️ Conhecimento em Back-end:<br>Também estou familiarizado com linguagens back-end como Python e Java. <br><br>📱 Próximo passo: explorar o desenvolvimento mobile.<br><br>🚀Aberto a colaborações e sempre pronto para aprender!!<br><br>
 
 
 ## 🌐 Socials:
