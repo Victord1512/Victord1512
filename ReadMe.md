@@ -1,5 +1,17 @@
-# 👋Victor aqui! 
-Focado em desenvolvimento web. 💻<br><br>📚 Estudando:<br>Atualmente, estudo e aplico conhecimentos em projetos práticos. 🚀<br><br>💡 Conhecimento em Front-end:<br>Conhecimentos sólidos em HTML/CSS e JavaScript, além de ter um conhecimento básico em react.js e TypeScript.<br><br>⚙️ Conhecimento em Back-end:<br>Também estou familiarizado com linguagens back-end como Python e Java. <br><br>📱 Próximo passo: explorar o desenvolvimento mobile.<br><br>🚀Aberto a colaborações e sempre pronto para aprender!!<br><br>
+Victor aqui!!
+
+Focado em Análise de dados e Ciência de dados. 📊💡
+
+📚 Estudando:
+Atualmente, estudo e aplico conhecimentos em projetos práticos de análise de dados, machine learning e visualização de dados. 🚀
+
+💡 Conhecimento em Análise de Dados:
+Conhecimentos sólidos em Python, Pandas, NumPy para tratamento de dados e bibliotecas de visualização como Matplotlib e Seaborn. Além disso, tenho experiência em SQL para manipulação e consulta de bancos de dados.
+
+⚙️ Conhecimento em Ciência de Dados:
+Familiarizado com técnicas de machine learning, utilizando bibliotecas como Scikit-Learn, e com noções de deep learning. Também tenho experiência em limpeza e pré-processamento de dados.
+
+🚀 Aberto a colaborações e sempre pronto para aprender!
 
 
 ## 🌐 Socials:
